@@ -211,7 +211,7 @@ Tool ini dibuat untuk **EDUKASI & PENGUJIAN SISTEM** saja.
 <div align="center">
 
 <img src="https://img.shields.io/badge/GitHub-agusjawirtechid-black?style=flat&logo=github">
-<img src="https://img.shields.io/badge/Email-agusjawir@tech.id-red?style=flat&logo=gmail">
+<img src="https://img.shields.io/badge/Email-agusjawirtechid@gmail.com-red?style=flat&logo=gmail">
 
 ---
 
